@@ -64,8 +64,8 @@ fs.watchFile(file_exif, () => {
   require('./lib/exif.json')
 })
 
-global.packname = sticker_name
-global.author = sticker_author
+global.packname = OchoBotz
+global.author = BY OchoBotz
 
 
 global.multiplier = 69 // The higher, The harder levelup
@@ -79,21 +79,21 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (RyuuZeyy)
-gc1 = 'https://chat.whatsapp.com/FJkbQjpewltErmQRwzC9rj'
-gc2 = 'https://chat.whatsapp.com/HTcmEqjQeu1GMN2xN210QJ'
-gc3 = 'https://chat.whatsapp.com/I3yAMaBNA9X63FspQ5V46N'
-namaig = 'https://instagram.com/bah.raid'
+gc1 = 'https://chat.whatsapp.com/F8eBPtrLsYcLgrgzgZHvps'
+gc2 = 'Blom Buat'
+gc3 = 'Blom Buat'
+namaig = 'https://instagram.com/hii.chell_'
 linkf = gc1
-linkff = namaig
-namabot = 'ChokiBot'
+linkff = hii.chell_
+namabot = 'OchoBotz'
 namagithub = 'https://github.com/RTeam1'
 gcid = '972502255007-1406453544'
-footer = 'ChokiBot'
+footer = 'OchoBotz'
 lolkey = 'rey2k21'
 global.wait = 'Tunggu Sebentar'
 bc = 'Choki'
 titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'
 body = run
-kasihcaption = `©${namaig}\n\n©${namagithub}`
+kasihcaption = `©${hii.chell_}\n\n©${OchoBotz}`
 gambar1 = tum1
 gambar2 = tum2
